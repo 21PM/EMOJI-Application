@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(122, 116, 116);
+}
+#main_container{
+    padding: 1rem;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    color: white;
+}
+hr{
+    color :white;
+}
+input{
+    font-size: 120%;
+    cursor: pointer;
+    
+}
+#table {
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+
+}
